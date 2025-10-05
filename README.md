@@ -1,6 +1,6 @@
 # 📊 Dashboard Analítico do Mercado de Ações com Narrativa Inteligente
 
-![Dashboard do Mercado de Ações](./imagens/dados-de-acoes.png)
+![Dashboard do Mercado de Ações](.dados_de_ações)
 
 ---
 
@@ -30,3 +30,4 @@ O relatório apresenta insights sobre **volume negociado, variação de preços 
 ---
 
 ## ⚙️ Estrutura do Projeto
+
